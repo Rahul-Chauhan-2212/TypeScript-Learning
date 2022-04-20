@@ -9,3 +9,15 @@ a)Install node </br>
 b)Install Typescript </br>
 
 <p style="color:red;">npm install -g typescript</p>
+
+2)Setting up Fundamentals Training Workspace
+a)Create folder</br>
+b)create index.html with app.js as script</br>
+c)create app.ts</br>
+d)run below command to add dependencies in project
+
+<p>npm init</p>
+e)Then install lite server which is live server to reflet on the fly changes
+<p>npm install --save-dev lite-server
+f)Run lite server in the root folder of index.html
+<p>npm start</p>
