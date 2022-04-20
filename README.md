@@ -2,10 +2,10 @@
 
 ## This Repo is created for TypeScript Basic Learning
 
-TypeScript is a super set of JavaScript
-1)Installing typescript
-a)Install node
+### TypeScript is a super set of JavaScript
+1)Installing typescript </br>
+a)Install node </br>
 b)Install Typescript
-<b style='color:red'>npm install -g typescript</b>
+<p style='color:red'>npm install -g typescript</p>
 
 
