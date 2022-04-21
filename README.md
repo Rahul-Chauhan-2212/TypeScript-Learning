@@ -21,3 +21,14 @@ e)Then install lite server which is live server to reflet on the fly changes
 <p>npm install --save-dev lite-server
 f)Run lite server in the root folder of index.html
 <p>npm start</p>
+g)running project after cloning
+<p>npm install</p>
+<p>npm start</>
+
+3)Core Types </br>
+
+<ul>
+   <li>number ---> 1,5.3,-10</li>
+   <li>string --->'Hi',"Hi",`Hi`</li>
+   <li>boolean --->true, false</li>
+</ul>
