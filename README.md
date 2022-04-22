@@ -18,7 +18,7 @@ d)run below command to add dependencies in project
 
 <p>npm init</p>
 e)Then install lite server which is live server to reflet on the fly changes
-<p>npm install --save-dev lite-server
+<p>npm install --save-dev lite-server</p>
 f)Run lite server in the root folder of index.html
 <p>npm start</p>
 g)running project after cloning
@@ -37,4 +37,5 @@ g)running project after cloning
    <li>Enum ---->enum{NEW,OLD}</li>
    <li>Any</li>
    <li>Union  --->number|string</li>
+   <li>Literal Types</li>
 </ul>
