@@ -4,6 +4,13 @@
 // } = { age: 30, name: "Rahul" };
 var person = {
     age: 30,
-    name: "Rahul"
+    name: "Rahul",
+    hobbies: ["Sports", "Cooking"]
 };
+var favoriteActivities;
+favoriteActivities = ['Watching Movies', 'Coding', 'Playing Cricket'];
 console.log(person);
+for (var _i = 0, favoriteActivities_1 = favoriteActivities; _i < favoriteActivities_1.length; _i++) {
+    var activity = favoriteActivities_1[_i];
+    console.log(activity);
+}

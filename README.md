@@ -31,4 +31,6 @@ g)running project after cloning
    <li>number ---> 1,5.3,-10</li>
    <li>string --->'Hi',"Hi",`Hi`</li>
    <li>boolean --->true, false</li>
+   <li>object --->{age:30,name:'Rahul'}</li>
+   <li>Array --->[1,2,3]</li>
 </ul>
