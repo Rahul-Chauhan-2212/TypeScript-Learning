@@ -35,4 +35,5 @@ g)running project after cloning
    <li>Array --->[1,2,3]</li>
    <li>Tuple --->[1,2]</li> fixed length and fixed type array
    <li>Enum ---->enum{NEW,OLD}</li>
+   <li>Any</li>
 </ul>
