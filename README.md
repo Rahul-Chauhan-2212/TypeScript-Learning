@@ -10,7 +10,7 @@ b)Install Typescript </br>
 
 <p style="color:red;">npm install -g typescript</p>
 
-2)Setting up Fundamentals Training Workspace
+2)Setting up Fundamentals Training Workspace </br>
 a)Create folder</br>
 b)create index.html with app.js as script</br>
 c)create app.ts</br>
@@ -38,4 +38,5 @@ g)running project after cloning
    <li>Any</li>
    <li>Union  --->number|string</li>
    <li>Literal Types</li>
+   <li>Type Aliases</li>
 </ul>
