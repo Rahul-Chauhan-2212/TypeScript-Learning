@@ -1,14 +1,8 @@
-function combine(input1, input2, 
-//resultConversion: "as-number" | "as-text" //literal type
-resultConversion) {
-    //union
-    var result;
-    if ((typeof input1 === "number" && typeof input2 === "number") ||
-        resultConversion === "as-number")
-        result = +input1 + +input2;
-    else {
-        result = input1.toString() + input2.toString();
-    }
-    return result;
+function add(n1, n2) {
+    return n1 + n2;
 }
-console.log(combine("5", "10", "as-number"));
+function printResult(result) {
+    console.log(result);
+}
+var result = add(7, 9);
+printResult(result);
