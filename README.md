@@ -36,4 +36,5 @@ g)running project after cloning
    <li>Tuple --->[1,2]</li> fixed length and fixed type array
    <li>Enum ---->enum{NEW,OLD}</li>
    <li>Any</li>
+   <li>Union  --->number|string</li>
 </ul>

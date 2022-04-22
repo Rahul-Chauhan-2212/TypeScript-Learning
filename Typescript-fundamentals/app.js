@@ -1,25 +1,12 @@
-// const person: {
-//   age: number;
-//   name: string;
-// } = { age: 30, name: "Rahul" };
-var RoleEnum;
-(function (RoleEnum) {
-    RoleEnum[RoleEnum["AUTHOR"] = 0] = "AUTHOR";
-    RoleEnum[RoleEnum["READ_ONLY_USER"] = 1] = "READ_ONLY_USER";
-})(RoleEnum || (RoleEnum = {}));
-var person = {
-    age: 30,
-    name: "Rahul",
-    hobbies: ["Sports", "Cooking"],
-    role: [2, "author"],
-    roleEnum: RoleEnum.READ_ONLY_USER
-};
-person.role.push("admin");
-//person.role[1] = 10; error at this line with tuple
-var favoriteActivities;
-favoriteActivities = ["Watching Movies", "Coding", "Playing Cricket"];
-console.log(person);
-for (var _i = 0, favoriteActivities_1 = favoriteActivities; _i < favoriteActivities_1.length; _i++) {
-    var activity = favoriteActivities_1[_i];
-    console.log(activity);
+function combine(input1, input2) {
+    var result;
+    if (typeof input1 === "number" && typeof input2 === "number")
+        result = input1 + input2;
+    else {
+        result = input1.toString() + input2.toString();
+    }
+    return result;
 }
+var number1 = 5;
+var number2 = 10;
+console.log(combine(number1, number2));
