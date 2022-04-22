@@ -33,4 +33,5 @@ g)running project after cloning
    <li>boolean --->true, false</li>
    <li>object --->{age:30,name:'Rahul'}</li>
    <li>Array --->[1,2,3]</li>
+   <li>Tuple --->[1,2]</li> fixed length and fixed type array
 </ul>
