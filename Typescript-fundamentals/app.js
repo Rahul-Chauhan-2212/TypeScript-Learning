@@ -2,11 +2,17 @@
 //   age: number;
 //   name: string;
 // } = { age: 30, name: "Rahul" };
+var RoleEnum;
+(function (RoleEnum) {
+    RoleEnum[RoleEnum["AUTHOR"] = 0] = "AUTHOR";
+    RoleEnum[RoleEnum["READ_ONLY_USER"] = 1] = "READ_ONLY_USER";
+})(RoleEnum || (RoleEnum = {}));
 var person = {
     age: 30,
     name: "Rahul",
     hobbies: ["Sports", "Cooking"],
-    role: [2, "author"]
+    role: [2, "author"],
+    roleEnum: RoleEnum.READ_ONLY_USER
 };
 person.role.push("admin");
 //person.role[1] = 10; error at this line with tuple
