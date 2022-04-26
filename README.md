@@ -40,4 +40,5 @@ g)running project after cloning
    <li>Literal Types</li>
    <li>Type Aliases</li>
    <li>Function Types</li>
+   <li>Function Types and CallBacks</li>
 </ul>
