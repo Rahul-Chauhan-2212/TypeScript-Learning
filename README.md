@@ -39,4 +39,5 @@ g)running project after cloning
    <li>Union  --->number|string</li>
    <li>Literal Types</li>
    <li>Type Aliases</li>
+   <li>Function Types</li>
 </ul>
