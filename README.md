@@ -64,3 +64,6 @@ Add Below lines in tsconfig.json
 
  <p>"exclude": ["node_modules"],
   "include": ["app.ts", "analytics.ts"]</p>
+
+7)Changing Compiler target</br>
+change target version in tsconfig.json
