@@ -41,4 +41,6 @@ g)running project after cloning
    <li>Type Aliases</li>
    <li>Function Types</li>
    <li>Function Types and CallBacks</li>
+   <li>Unknown Type</li>
+   <li>Never Type</li>
 </ul>
