@@ -3,6 +3,7 @@ userInput = 8;
 userInput = "Rahul";
 var user;
 //user=userInput;//error in this line
+console.log("Watch node started...");
 function generateError(message, code) {
     throw { message: message, errorCode: code };
 }

@@ -44,3 +44,10 @@ g)running project after cloning
    <li>Unknown Type</li>
    <li>Never Type</li>
 </ul>
+
+4)Watch Node </br>
+so that whenver a ts file is changes it automatically compiles
+
+<p>tsc app.ts --watch</p>
+<p>tsc app.ts -w</p>
+Note:: Don't quit/CTRL+C, till you want this file to be in watch node
