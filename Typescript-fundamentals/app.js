@@ -1,7 +1,8 @@
-var userInput; //unknown is strict version of any
+"use strict";
+let userInput; //unknown is strict version of any
 userInput = 8;
 userInput = "Rahul";
-var user;
+let user;
 //user=userInput;//error in this line
 console.log("Watch node started...");
 function generateError(message, code) {

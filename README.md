@@ -51,3 +51,16 @@ so that whenver a ts file is changes it automatically compiles
 <p>tsc app.ts --watch</p>
 <p>tsc app.ts -w</p>
 Note:: Don't quit/CTRL+C, till you want this file to be in watch node
+
+5)Compiling complete project </br>
+
+<p>tsc --init</p>
+creates a tsconfig.json file 
+<p>tsc --watch</p>
+compiles all project in watch mode
+
+6)Excluding and including files while compilation
+Add Below lines in tsconfig.json
+
+ <p>"exclude": ["node_modules"],
+  "include": ["app.ts", "analytics.ts"]</p>
