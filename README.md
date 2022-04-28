@@ -82,3 +82,18 @@ don't create js file if ts file has errors
 11)Enable all Strict Type Checking options</br>
 "strict": true</br>
 if want to disable some strict compilations then set that as false
+
+12)There are some Quality Options too
+
+<ul>
+<li>"noUnusedLocals": true<li>
+<li>"noUnusedParameters": true</li>
+<li>"exactOptionalPropertyTypes": true<li>
+ <li>"noImplicitReturns": true<li>
+ <li>"noFallthroughCasesInSwitch": true<li>
+ <li>"noUncheckedIndexedAccess": true</li>
+<li>"noImplicitOverride": true</li>
+<li>"noPropertyAccessFromIndexSignature": true</li>
+<li>"allowUnusedLabels": true</li>
+<li>"allowUnreachableCode": true</li>
+</ul>
