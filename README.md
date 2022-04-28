@@ -71,3 +71,7 @@ change target version in tsconfig.json
 8)Source map</br>
 change source map property to true in tsconfig.json</br>
 this is used to debug the source and will generate .js.map file
+
+9)RootDir and OutDir</br>
+outDir for js files</br>
+rootDir for ts files
