@@ -86,7 +86,7 @@ if want to disable some strict compilations then set that as false
 12)There are some Quality Options too
 
 <ul>
-<li>"noUnusedLocals": true<li>
+<li>"noUnusedLocals": true</li>
 <li>"noUnusedParameters": true</li>
 <li>"exactOptionalPropertyTypes": true</li>
  <li>"noImplicitReturns": true</li>
