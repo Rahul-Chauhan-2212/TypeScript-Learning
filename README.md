@@ -97,3 +97,9 @@ if want to disable some strict compilations then set that as false
 <li>"allowUnusedLabels": true</li>
 <li>"allowUnreachableCode": true</li>
 </ul>
+
+13)Generics
+
+14)Class
+
+15)Interfaces
