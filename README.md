@@ -78,3 +78,7 @@ rootDir for ts files
 
 10)noEmmitOnError=true
 don't create js file if ts file has errors
+
+11)Enable all Strict Type Checking options</br>
+"strict": true</br>
+if want to disable some strict compilations then set that as false
