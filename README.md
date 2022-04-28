@@ -75,3 +75,6 @@ this is used to debug the source and will generate .js.map file
 9)RootDir and OutDir</br>
 outDir for js files</br>
 rootDir for ts files
+
+10)noEmmitOnError=true
+don't create js file if ts file has errors
